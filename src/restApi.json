@@ -170,6 +170,9 @@
         ]
     
     } 
-    ]
+    ],
+    
+      "baseUrl": "https://event-back-end-6pv9.vercel.app/api/v1"
+
 }
 
